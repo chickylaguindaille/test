@@ -16,11 +16,10 @@
     "require-dev": {
     },
     "config": {
-        "config": {
-            "platform": {
-                "php": "7.2"
-            }
+        "platform": {
+            "php": "7.2"
         },
+
         "allow-plugins": {
             "composer/package-versions-deprecated": true,
             "symfony/flex": true
